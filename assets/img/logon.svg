@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+	<title>Proyecto nuevo</title>
+	<defs>
+		<image  width="200" height="200" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAAAXNSR0IB2cksfwAAAIdQTFRF/////v7+8/Pz2NjYzMzMy8vLyMjIwMDAuLi4r6+vpaWl/f39mZmZlZWVfHx8ZmZmZGRkWlpaPz8/MzMzMjIyMTExmJiYcnJySUlJJycnAAAAl5eXUlJSFhYWnp6ehYWFYmJiDAwMhoaGX19f+/v74uLipqamxcXFLCwskpKSHx8fZWVl6+vrOVWLYAAABKJJREFUeJztnWt3ojAQhrkEBLSAUtCKSm3tqm3//+9bqOvB3fWSQELmvCfPF77mPUlmJpMwY1kGg8FgMBgMBoPBYDCoxnZc5vmjIIyiKAxGvsdcx9Y9KDHGrhdMnuIknc6yLHvO8/y5/s6maRI/TQLPHeseIA8OC4t5usheltd5yRbpvAiZo3ug97BZUCarbH1DQ8s6WyVlwGgutDHbVK/Z9qGIM9vs9W3DyK0yFlXvObeIM/l7FTHdQ79g55dpJqziRJaW/k63gBMfYbx4vC1us17E4YduEZblbpKuk3ExLcnGBZChX4rzS5KMk5RIk2+x97E8GT9S4r0Oz8LKlVQZDatycGO8i5KDdB3L5SGJhrXF7Ch3VbVkxwEnxQ6TT0U6lsvPJBxqp7jFTJmMhlkxjCX25uJBlRj53BtAR/DFH+F2ZfsVqJaxm8g3utdYTdRar+9ClbX6l6z4VqjDVWZ1ryg5qtvyrFK9zS/JK1UehcUqnPltDrEaJSy+lRlRxYsSJcPrUKPErYZdVycOlewd/30ccp+35Ee5Vng3mP/4l6yQ6hknunTUSiYSdQTDxCXXWcmLu7wvjTqWyy9ZsbA7Vx/v3mM7l2O67EKPwWrJCylnxlDteZCHWShBB0t0y6hJ+nv43VFdnoGfz2NvbxLp8yCXZFFPHSQWVkPPxWWXOkLFaxzKXpZrr9Ol/81q30OHE+se/gVxj1sHIjv9RI/97lLZ6SeSzpHKhtKE1FOywZiQ7lNCbEI6T8kHtQmpp6TTfXxIbULqKekSBe8o+ZAzcYfY0V/oHvUVFr64kLLP+xJVrEthHSzVPeirpMJBMKnopEU4ThlXuod8g0rwzR171z3iG7wLrq2N7hTQLXIx725TXVn12hI6KbJX3eO9yavQ2gpo2qyGTCinXerN9t5jK+ITHXqBb0sicHZndJIn/7MS2CQEI/gWkVi+oBgwnlkX3DrGc92DvcucO0pxaUa+Z1LuHIRH8UzVsuC+UyTsDhv4XeJk+FcnIrxw37w/6R7qA544ddgU8yeXxJwBMOkApYE3SCFuffntL5vqHukDppzRlqf/hcB9ZpyOxKftRmpHwplvHJEXMuITQtyx87v28Fn3SB/wzHkiiajmtM7knHlTI2QoeIXA7BEYqwXjR2A8O0ysBRP9wpxHYE6IMGd2mCwKTl6LuGvnzzTC5H6J21/+bDzM/QjMjRXOHSLMrS7pIEXknh3m5QNllyj2FgXmdRDMey2YF3Q4bxphXpnCvPvFeYkN8zYe528FmP9HKMbynf7owfnHCuavN5z/EKlNSec/Q6lNSfd/dWnFKX2qJcD8zw5TYQCn5gNMFQ4y+713XRScSjU0FpeE2kE41Zxw6mvBVDzDqUGHUxUQp04jTuVMmFqmtel6w6gui1PvF6cCM05N7FrJG0aVcpy68TiV/HF6K1gw3S4snP4jOB1hcHr0WDBdkyycPlYWTGcxC6fXmwXTfa8BpB+iNCn6ZTSA9AxtAOni+gNGX90fOnQ6rgh2Ov4Bo/f0HyC6gZ+B6M/eYjsu8/xREEZRFAYj32OuQ3oxGQwGg8FgMBgMBoPBQIjfsOsx2DYb6q8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 44px;fill: #fbf6f6;font-weight: 800;font-family: "EncodeSansSemiCondensed-ExtraBold", "Encode Sans SemiCondensed ExBd" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="Text layer 2" style="transform: matrix(1,0,0,1,37,117)" >
+		<tspan x="0" y="0" class="t0">&lt;</tspan><tspan  y="0" class="t0">d</tspan><tspan  y="0" class="t0">w</tspan><tspan  y="0" class="t0">/</tspan><tspan  y="0" class="t0">&gt;
+</tspan>
+	</text>
+</svg>
